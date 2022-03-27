@@ -1,0 +1,15 @@
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+/* this file was made to remove the arrows in the number type input fields
+in an attempt to create my own buttons to attach some javascript to.
+This may be revisited hence why this file is still here! */
