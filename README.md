@@ -6,8 +6,6 @@ Primary school pupils are often assigned books each week to read to help develop
 
 KS1 (Key Stage 1) is a very important year to set the foundation of pupil’s skills to support them for the remainder of their educational journey. Because of this, the web application will have a focus on supporting KS1 pupils. 
 
- 
-
 Instructions for code
 Note: These instructions are for Windows 10 PCs. Different steps may be required on other machines.
 	
