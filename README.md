@@ -27,3 +27,6 @@ Teacher: tamu@email.com
 Parent: jaron@email.com
 
 All user passwords are password123
+
+If for whatever reason you're unable to access and run this project on your device you can find a video demo of the application here:
+https://drive.google.com/file/d/1D47fUtN26Sgpbk4fo7iyJEHG83e4QEYI/view
